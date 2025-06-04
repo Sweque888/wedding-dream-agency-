@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wedding Dream Agency</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+      background-image: url("9fa000b3-4894-4c52-bd38-0563849d09c0.png");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      color: #333;
+    }
+
+    .overlay {
+      background-color: rgba(255, 255, 255, 0.88);
+      padding: 30px;
+      max-width: 960px;
+      margin: 50px auto;
+      border-radius: 20px;
+      box-shadow: 0 0 25px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 3.2em;
+      color: #b88e2f;
+    }
+
+    h2 {
+      color: #b88e2f;
+      margin-top: 40px;
+    }
+
+    p, li {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+
+    ul {
+      margin-left: 20px;
+    }
+
+    .contacts {
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.08);
+    }
+
+    .button {
+      display: inline-block;
+      background-color: #b88e2f;
+      color: white;
+      padding: 12px 25px;
+      margin-top: 20px;
+      border-radius: 8px;
+      font-size: 1.1em;
+      text-decoration: none;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: #8b6c1f;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>Wedding Dream Agency</h1>
+    <h2>Ми не просто організатори весіль — ми й забезпечуємо вам охорону та розписуємо вас!</h2>
+
+    <p>
+      👰‍♀️ <strong>Wedding Dream Agency</strong> займається організацією весіль «під ключ». Ми створюємо незабутні моменти для молодят — 
+      від планування до реалізації:
+    </p>
+    <ul>
+      <li>Оформлення локацій</li>
+      <li>Фотозони</li>
+      <li>Транспорт</li>
+      <li>Музичний супровід (DJ)</li>
+      <li>Кейтеринг</li>
+      <li>Ведучий</li>
+      <li class="highlight">Охорона — ми наймаємо охорону від СБС та забезпечимо вам повну безпеку.</li>
+      <li class="highlight">Кортедж — забезпечуємо великий та розкішний кортедж: мінімум 5 авто + лімузин.</li>
+    </ul>
+
+    <p class="highlight">Ми наймаємо професійного ведучого для вашого свята.</p>
+    <p class="highlight">МИ ВСЕ РОБИМО ЗА ВАС!!</p>
+
+    <a class="button" href="https://t.me/Sweque" target="_blank">Зв'язатися в Telegram</a>
+    <a class="button" href="https://t.me/Na7atelega" target="_blank">Другий організатор</a>
+
+    <div class="contacts">
+      <h2>📞 Контакти</h2>
+      <p><strong>Організатори:</strong> PIVO та Sweque</p>
+      <p><strong>Telegram Sweque:</strong> <a href="https://t.me/Sweque">@Sweque</a></p>
+      <p><strong>Telegram PIVO:</strong> <a href="https://t.me/Na7atelega">@Na7atelega</a></p>
+      <p><strong>Roblox Sweque:</strong> gandondond4</p>
+      <p><strong>Roblox PIVO:</strong> @XxHA7AxX</p>
+    </div>
+
+    <div class="footer">
+      © 2025 Wedding Dream Agency | Ukraine RP
+    </div>
+  </div>
+</body>
+</html>
